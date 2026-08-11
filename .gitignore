@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# Xcode
+build/
+.build/
+DerivedData/
+*.xcuserstate
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.perspectivev3
+.swiftpm/
+
+# Swift Package Manager
+Packages/
+Package.resolved
+
+# Claude
+CLAUDE.md
+.claude/
